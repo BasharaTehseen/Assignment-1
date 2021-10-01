@@ -1,0 +1,131 @@
+#nine
+{ 
+    height: 800px;
+    background-color:beige;
+    width: 32%;
+    border-style:solid;
+    border-color: black;
+    padding: 0px;
+    float: left;
+}
+#pp
+{
+    font-size:20pt;
+    font-style: bold;
+    text-align: center;
+    
+}
+#ten
+{
+    text-align: center;
+}
+#eleven
+{
+   
+    height: 800px;
+    background-color:beige;
+    width: 32%;
+    border-style:solid;
+    border-color: black;
+    padding: 0px;
+    float: left;
+}
+#pt
+{
+    font-size:20pt;
+    font-style: bold;
+    text-align: center;
+    
+}
+#twelve
+{
+   
+    height: 800px;
+    background-color:beige;
+    width: 34.5%;
+    border-style:solid;
+    border-color: black;
+    padding: 0px;
+    float: left;
+}
+#fg
+{
+    font-size:20pt;
+    font-style: bold;
+    text-align: center;
+    
+}
+#text{
+    font: 30pt;
+}
+#black{
+text-align: center;
+}
+#thre{
+    font-size: 20pt;
+    color:black;
+    font-style: italic;
+}
+#four{
+    font-size: 20pt;
+    color:black;
+    font-style: italic;
+}
+#five{
+    font-size: 20pt;
+    color:black;
+    font-style: italic;
+}
+#six{
+    font-size: 20pt;
+    color:black;
+    font-style: italic;
+}#seven{
+    font-size: 20pt;
+    color:black;
+    font-style: italic;
+}
+#thrd{
+    font-size: 40 pt;
+    text-align: center;
+    
+}
+#bbb{
+    background-color:beige;
+}
+
+#track
+{
+    font-size:30px;
+}
+.elegant{
+    background-color: black;
+    color:white;
+}
+
+
+.center-elements{
+    width:100%;
+    height:800px;
+    background-color: beige;
+}
+.sale{
+    color:red;
+    text-align: center;
+}
+#butn{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+}
+a:link{
+    color:black;
+    font-style: italic;
+}
+#one{
+    
+    font-size: 20px;
+}
+#onne{
+    background-color: chartreuse;
+}
